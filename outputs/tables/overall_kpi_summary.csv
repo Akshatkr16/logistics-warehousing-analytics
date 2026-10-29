@@ -1,0 +1,12 @@
+Metric,Value
+Total Shipments,900.0
+Total Freight Cost,13428348.2
+Average Freight Cost per Unit,10.00176875288201
+Average Transit Delay (Days),1.729777777777778
+Late Shipment Rate (%),69.0
+Average Truck Utilization (%),35.88955555555555
+Average Damage (%),0.5544111111111112
+Average Truck Turnaround (Hours),3.8921111111111113
+Average Storage Utilization (%),70.67399999999999
+OTIF Rate (%),80.77777777777779
+Stockout Rate (%),22.77777777777778
